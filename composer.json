@@ -1,0 +1,11 @@
+{
+    "name": "haioou/php-framework",
+    "license": "MIT",
+    "version": "0.0.1",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Haioou\\Framework\\": "."
+        }
+    }
+}
