@@ -1,5 +1,11 @@
 {
     "name": "haioou/php-framework",
+    "authors": [
+        {
+            "name": "haioou",
+            "email": "haioou@gmail.com"
+        }
+    ],
     "license": "MIT",
     "version": "0.0.1",
     "require": {},
